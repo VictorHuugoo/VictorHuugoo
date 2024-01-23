@@ -40,6 +40,6 @@ Thank you for visiting my profile! :heart:
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/victorhug-o" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Victor-Hugo-Dev" /></a>
+<a href="https://www.linkedin.com/in/victorhug-o/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Victor-Hugo-Dev" /></a>
 <a href="https://www.instagram.com/victorhug.o/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Victorhug.o" /></a>
 </p>
