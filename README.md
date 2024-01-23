@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, my name is Victor Hugo :ringed_planet: </h1>
 
-## Future Developer and Programmer
+## Future Developer and Programmer 
 
-- :stars: I am looking to carry out my projects, both personal and professional.
+- :heart: I am looking to carry out my projects, both personal and professional.
   
 - :palm_tree: I am currently studying Python and Microsoft Power BI for Business Intelligence and Data Science.
 
-- :books: I finished high school as a Professional Technician in IT for the Internet, starting my degree in Computer Science.
+- :stars: I finished high school as a Professional Technician in IT for the Internet, starting my degree in Computer Science.
   
 - :earth_americas: I live in Catiguá-SP
   
