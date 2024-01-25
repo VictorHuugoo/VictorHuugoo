@@ -23,10 +23,9 @@
 </p>
 
 <h4 align="left">I am studying:</h4>
-<h4 align="left">Languages ​​i know:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs" />
   </a>
 </p>
 
